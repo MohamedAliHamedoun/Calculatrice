@@ -1,5 +1,7 @@
 # calculatrice
-![image](https://user-images.githubusercontent.com/116631139/204477974-c7002e99-1a6b-46a2-9356-5e836e7ddf40.png)
-![image](https://user-images.githubusercontent.com/116631139/204478155-a61580b6-8662-4c26-9f9a-4e61cdd09887.png)
+![image](https://user-images.githubusercontent.com/103369482/206812504-8a1bab19-4e86-4506-bebc-1967f7930968.png)
+![image](https://user-images.githubusercontent.com/103369482/206812526-829ce0ca-d360-4ac1-b5e3-6608b355043f.png)
+
+
 
 
